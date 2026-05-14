@@ -6,7 +6,7 @@ const translationsEN = {
         "about": "About Us",
         "plans": "Plans",
         "signin": "Sign In",
-        "signup": "Sign Up"
+        "signup": "Get Started"
     },
     "hero": {
         "title": "The Future of Pharmaceutical Quality Management",

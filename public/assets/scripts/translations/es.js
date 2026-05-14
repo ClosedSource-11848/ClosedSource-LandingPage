@@ -6,7 +6,7 @@ const translationsES = {
         "about": "Nosotros",
         "plans": "Planes",
         "signin": "Iniciar Sesión",
-        "signup": "Registrarse"
+        "signup": "Comenzar"
     },
     "hero": {
         "title": "El Futuro de la Gestión de Calidad Farmacéutica",
