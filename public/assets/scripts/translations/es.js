@@ -91,7 +91,8 @@ const translationsES = {
         "member2": "20 años. Persona flexible y con buena disposición para colaborar. Disfruta el trabajo en equipo para aportar ideas y encontrar soluciones junto a otros. Con conocimientos en C++ y Python, busca constantemente optimizar sus tareas para lograr mejores resultados.",
         "member3": "20 años. Estudiante responsable y proactivo con una sólida base técnica en C++. Destaca por su capacidad para aportar soluciones creativas y su compromiso con el aprendizaje constante en entornos profesionales.",
         "member4": "Estudiante de Ingeniería de Software apasionado por crear soluciones tecnológicas. Su enfoque va más allá de la programación, interesado en desarrollar experiencias digitales funcionales y agradables. Con conocimientos en C++, HTML y CSS.",
-        "member5": "21 años. Estudiante de ingeniería de software activo y comunicativo en el desarrollo de proyectos. Considera el trabajo en equipo una oportunidad para afinar su capacidad de encontrar respuestas. Con experiencia en C++, C# y Python."
+        "member5": "21 años. Estudiante de ingeniería de software activo y comunicativo en el desarrollo de proyectos. Considera el trabajo en equipo una oportunidad para afinar su capacidad de encontrar respuestas. Con experiencia en C++, C# y Python.",
+        "member6": "21 años. Estudiante de ingeniería de software con habilidades en C++ y Python. Destaca por su capacidad para colaborar eficazmente en equipo, aportando ideas innovadoras y soluciones prácticas a los desafíos del desarrollo de software."
     },
     "plans": {
         "button": "Planes",

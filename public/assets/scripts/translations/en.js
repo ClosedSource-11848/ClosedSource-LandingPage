@@ -91,7 +91,8 @@ const translationsEN = {
         "member2": "20 years old. A flexible person with a good disposition to collaborate. I enjoy working as a team as it allows me to contribute ideas and find solutions. I have knowledge in C++ and Python and constantly seek to optimize my tasks.",
         "member3": "20 years old. A responsible and proactive student with a solid technical foundation in C++. I stand out for my ability to contribute creative solutions and my commitment to constant learning in professional environments.",
         "member4": "Software Engineering student passionate about creating technological solutions. My approach goes beyond programming — I'm interested in developing digital experiences that are both functional and enjoyable. I have knowledge in C++, HTML, and CSS.",
-        "member5": "21 years old. An active and communicative software engineering student in project development. I consider teamwork an opportunity to refine my problem-solving skills. I have experience in C++, C#, and Python."
+        "member5": "21 years old. An active and communicative software engineering student in project development. I consider teamwork an opportunity to refine my problem-solving skills. I have experience in C++, C#, and Python.",
+        "member6": "21 years old. Software engineering student with skills in C++ and Python. Stands out for the ability to collaborate effectively in a team, bringing innovative ideas and practical solutions to software development challenges."
     },
     "plans": {
         "button": "Plans",
