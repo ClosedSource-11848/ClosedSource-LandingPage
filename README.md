@@ -79,6 +79,7 @@ ClosedSource-LandingPage/
 | Marlon Packard Viza Quispe | U202322849 | Software Engineer |
 | Mauricio Sebastián Castillo Yataco | U202113229 | Software Engineer |
 | Marcelo Martín Angulo Ramírez | U202321425 | Software Engineer |
+| Felix Orlando Becerra Ttito | U20211b387 | Software Engineer |
 
 > Software Engineering students at **Universidad Peruana de Ciencias Aplicadas (UPC)**.
 
